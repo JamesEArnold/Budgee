@@ -33,7 +33,9 @@ Use lower case not title case!
 
 ## Style guide
 
-Prettier will catch most styling issues that may exist in your code. You can check the status of your code styling by simply running npm run prettier.
+Prettier will catch most styling issues that may exist in your code. You can check the status of your code styling by simply running
+
+```npm run prettier```
 
 However, there are still some styles that Prettier cannot pick up.
 ## General
