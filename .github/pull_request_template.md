@@ -19,7 +19,7 @@
 
 ## Gif
 
-<!--- Include a related gif here. -->
+![gif keyword](link-to-gif-here.gif)
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
